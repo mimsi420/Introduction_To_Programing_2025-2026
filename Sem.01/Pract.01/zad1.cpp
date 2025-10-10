@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Oh what a happy day!" << endL;
-    cout << "Oh yes," << endl;
-    cout << "what a happy day!" << endL;
-}
+    cout << "Oh what a happy day! \n";
+    cout << "Oh yes, \n";
+    cout << "what a happy day! \n";
+}   
