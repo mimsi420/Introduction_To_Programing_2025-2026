@@ -1,3 +1,0 @@
-﻿  zad1.cpp
-MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-D:\Documents\GitHub\Introduction_To_Programing_2025-2026\x64\Debug\Itroduction to programming.exe : fatal error LNK1120: 1 unresolved externals
