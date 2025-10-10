@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zad3.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad3.cpp",
-              "RelativeDocumentMoniker": "zad3.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad3.cpp",
-              "RelativeToolTip": "zad3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "zad4.cpp",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad4.cpp",
+              "RelativeDocumentMoniker": "zad4.cpp",
+              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad4.cpp",
+              "RelativeToolTip": "zad4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-10T07:03:18.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "zad2.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad2.cpp",
-              "RelativeDocumentMoniker": "zad2.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad2.cpp",
-              "RelativeToolTip": "zad2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-10T07:02:56.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "zad1.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad1.cpp",
-              "RelativeDocumentMoniker": "zad1.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\praktikum\\zad1.cpp",
-              "RelativeToolTip": "zad1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-10T07:01:10.352Z",
+              "WhenOpened": "2025-10-10T08:26:11.142Z",
               "EditorCaption": ""
             }
           ]

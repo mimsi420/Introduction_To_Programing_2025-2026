@@ -1,5 +1,38 @@
-UP_PRAKTIKUM/praktikum/.vs/
+# User-specific
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+# Build results
+*.obj
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.idb
+*.lib
+*.tlog
+*.log
+
+# Visual Studio cache/databases
+*.VC.db
+*.VC.opendb
+*.cache
+*.aps
+*.ncb
+*.sdf
+*.db
+*.db-wal
+*.db-shm
+
+# Backup files
+*.backup.json
+
+# Build directories
+/Debug/
+/Release/
+/x64/
+/x86/
+/ipch/
+/.vs/
