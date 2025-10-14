@@ -124,11 +124,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="zad1.cpp" />
+    <ClCompile Include="zad10.cpp" />
+    <ClCompile Include="zad11.cpp" />
+    <ClCompile Include="zad12.cpp" />
+    <ClCompile Include="zad13.cpp" />
+    <ClCompile Include="zad14.cpp" />
     <ClCompile Include="zad2.cpp" />
     <ClCompile Include="zad3.cpp" />
     <ClCompile Include="zad4.cpp" />
     <ClCompile Include="zad5.cpp" />
     <ClCompile Include="zad6.cpp" />
+    <ClCompile Include="zad7.cpp" />
+    <ClCompile Include="zad8.cpp" />
+    <ClCompile Include="zad9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
