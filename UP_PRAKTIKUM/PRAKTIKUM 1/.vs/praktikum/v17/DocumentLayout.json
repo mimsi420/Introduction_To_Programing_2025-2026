@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBFA7614-B0B2-4B7D-BEA8-D95FA7E17C0F}|praktikum.vcxproj|solutionrelative:zad10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "zad8.cpp",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad8.cpp",
+              "RelativeDocumentMoniker": "zad8.cpp",
+              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad8.cpp",
+              "RelativeToolTip": "zad8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T19:23:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "zad14.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad14.cpp",
               "RelativeDocumentMoniker": "zad14.cpp",
@@ -51,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "zad13.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad13.cpp",
               "RelativeDocumentMoniker": "zad13.cpp",
@@ -64,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "zad12.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad12.cpp",
               "RelativeDocumentMoniker": "zad12.cpp",
@@ -77,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "zad11.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad11.cpp",
               "RelativeDocumentMoniker": "zad11.cpp",
@@ -90,28 +103,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "zad10.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad10.cpp",
               "RelativeDocumentMoniker": "zad10.cpp",
               "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad10.cpp",
               "RelativeToolTip": "zad10.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-14T16:52:05.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "zad9.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad9.cpp",
-              "RelativeDocumentMoniker": "zad9.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 1\\zad9.cpp",
-              "RelativeToolTip": "zad9.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-14T16:51:58.384Z",
               "EditorCaption": ""
             }
           ]
