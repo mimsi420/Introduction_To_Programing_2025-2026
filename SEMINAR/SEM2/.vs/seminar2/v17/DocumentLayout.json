@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|solutionrelative:zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|solutionrelative:zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -38,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "zad7.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad7.cpp",
               "RelativeDocumentMoniker": "zad7.cpp",
@@ -55,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "zad6.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad6.cpp",
               "RelativeDocumentMoniker": "zad6.cpp",
@@ -68,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "zad5.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad5.cpp",
               "RelativeDocumentMoniker": "zad5.cpp",
@@ -81,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "zad4.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad4.cpp",
               "RelativeDocumentMoniker": "zad4.cpp",
@@ -94,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "zad3.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad3.cpp",
               "RelativeDocumentMoniker": "zad3.cpp",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "zad2.cpp",
               "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad2.cpp",
               "RelativeDocumentMoniker": "zad2.cpp",
@@ -116,19 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-21T13:20:40.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "zad1.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad1.cpp",
-              "RelativeDocumentMoniker": "zad1.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad1.cpp",
-              "RelativeToolTip": "zad1.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T13:20:33.946Z",
               "EditorCaption": ""
             }
           ]
