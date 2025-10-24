@@ -11,15 +11,15 @@
 //	if (ch >= 'a' && ch <= 'z') 
 //	{
 //		char upperCh = ch - ('a' - 'A'); // all the lower- and uppercase letters have a fixed offset so this works for every char
-//		cout << "Uppercase: " << upperCh << endl;
+//		cout << "Uppercase: " << upperCh << "\n";
 //	} 
 //	else if (ch >= 'A' && ch <= 'Z') 
 //	{
 //		char lowerCh = ch + ('a' - 'A');
-//		cout << "Lowercase: " << lowerCh << endl;
+//		cout << "Lowercase: " << lowerCh << "\n";
 //	} 
 //	else 
 //	{
-//		cout << "Invalid character" << endl;
+//		cout << "Invalid character" << "\n";
 //	}
 //}
