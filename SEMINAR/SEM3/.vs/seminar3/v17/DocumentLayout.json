@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F774B9-57C6-D305-3D1F-0AC6536FDF01}|seminar3.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{84F774B9-57C6-D305-3D1F-0AC6536FDF01}|seminar3.vcxproj|solutionrelative:zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{84F774B9-57C6-D305-3D1F-0AC6536FDF01}|seminar3.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84F774B9-57C6-D305-3D1F-0AC6536FDF01}|seminar3.vcxproj|solutionrelative:zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F774B9-57C6-D305-3D1F-0AC6536FDF01}|seminar3.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zad2.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad2.cpp",
-              "RelativeDocumentMoniker": "zad2.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad2.cpp",
-              "RelativeToolTip": "zad2.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Title": "zad3.cpp",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad3.cpp",
+              "RelativeDocumentMoniker": "zad3.cpp",
+              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM3\\zad3.cpp",
+              "RelativeToolTip": "zad3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T13:47:11.411Z",
+              "WhenOpened": "2025-10-21T14:26:59.099Z",
               "EditorCaption": ""
             },
             {
