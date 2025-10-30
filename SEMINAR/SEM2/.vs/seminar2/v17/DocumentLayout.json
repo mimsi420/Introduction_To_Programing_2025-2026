@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|solutionrelative:zad5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B504D0AC-5351-600B-E840-B86CB10E0A69}|seminar2.vcxproj|solutionrelative:zad6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zad5.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad5.cpp",
-              "RelativeDocumentMoniker": "zad5.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad5.cpp",
-              "RelativeToolTip": "zad5.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Title": "zad6.cpp",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad6.cpp",
+              "RelativeDocumentMoniker": "zad6.cpp",
+              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM2\\zad6.cpp",
+              "RelativeToolTip": "zad6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T13:20:58.712Z",
+              "WhenOpened": "2025-10-21T13:21:04.553Z",
               "EditorCaption": ""
             }
           ]
