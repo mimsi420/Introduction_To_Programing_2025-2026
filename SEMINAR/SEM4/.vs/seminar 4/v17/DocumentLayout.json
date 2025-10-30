@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60723A25-892A-34C5-662B-EF21E7CA6DC9}|seminar 4.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60723A25-892A-34C5-662B-EF21E7CA6DC9}|seminar 4.vcxproj|solutionrelative:zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60723A25-892A-34C5-662B-EF21E7CA6DC9}|seminar 4.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60723A25-892A-34C5-662B-EF21E7CA6DC9}|seminar 4.vcxproj|solutionrelative:zad1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{60723A25-892A-34C5-662B-EF21E7CA6DC9}|seminar 4.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\primer3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60723A25-892A-34C5-662B-EF21E7CA6DC9}|seminar 4.vcxproj|solutionrelative:primer3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zad2.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\zad2.cpp",
-              "RelativeDocumentMoniker": "zad2.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\zad2.cpp",
-              "RelativeToolTip": "zad2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Title": "primer3.cpp",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\primer3.cpp",
+              "RelativeDocumentMoniker": "primer3.cpp",
+              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\primer3.cpp",
+              "RelativeToolTip": "primer3.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T15:02:49.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "zad1.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\zad1.cpp",
-              "RelativeDocumentMoniker": "zad1.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\SEMINAR\\SEM4\\zad1.cpp",
-              "RelativeToolTip": "zad1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T14:44:44.68Z",
+              "WhenOpened": "2025-10-28T15:32:43.895Z",
               "EditorCaption": ""
             }
           ]

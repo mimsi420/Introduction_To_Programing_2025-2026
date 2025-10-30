@@ -119,6 +119,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="primer1.cpp" />
+    <ClCompile Include="primer2.cpp" />
+    <ClCompile Include="primer3.cpp" />
+    <ClCompile Include="primer4.cpp" />
     <ClCompile Include="zad1.cpp" />
     <ClCompile Include="zad10.cpp" />
     <ClCompile Include="zad11.cpp" />
