@@ -6,27 +6,27 @@
 //Напишете програма, която въвежда от стандартния 5 на брой цели числа.
 //Да се изведе на стандартния изход "yes", ако въведената поредица е трион, или "no", в противен случай.
 
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-	int n1, n2, n3, n4, n5;
-
-	cout << "Enter 5 integers: \n";
-	cin >> n1 >> n2 >> n3 >> n4 >> n5;
-
-	if (
-		((n2 >= n3 && n2 >= n1) || (n2 <= n3 && n2 <= n1)) &&
-		((n3 >= n2 && n3 >= n4) || (n3 <= n2 && n3 <= n4)) &&
-		((n4 >= n3 && n4 >= n5) || (n4 <= n3 && n4 <= n5))
-		)
-	{
-		cout << "yes\n";
-	}
-	else
-	{
-		cout << "no\n";
-	}
-}
+//#include <iostream>
+//
+//using namespace std;
+//
+//int main()
+//{
+//	int n1, n2, n3, n4, n5;
+//
+//	cout << "Enter 5 integers: \n";
+//	cin >> n1 >> n2 >> n3 >> n4 >> n5;
+//
+//	if (
+//		((n2 >= n3 && n2 >= n1) || (n2 <= n3 && n2 <= n1)) &&
+//		((n3 >= n2 && n3 >= n4) || (n3 <= n2 && n3 <= n4)) &&
+//		((n4 >= n3 && n4 >= n5) || (n4 <= n3 && n4 <= n5))
+//		)
+//	{
+//		cout << "yes\n";
+//	}
+//	else
+//	{
+//		cout << "no\n";
+//	}
+//}
