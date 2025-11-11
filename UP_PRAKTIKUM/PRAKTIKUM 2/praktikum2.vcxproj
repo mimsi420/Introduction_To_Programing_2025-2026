@@ -123,6 +123,7 @@
     <ClCompile Include="zad10.cpp" />
     <ClCompile Include="zad11.cpp" />
     <ClCompile Include="zad12.cpp" />
+    <ClCompile Include="zad13.cpp" />
     <ClCompile Include="zad2.cpp" />
     <ClCompile Include="zad3.cpp" />
     <ClCompile Include="zad4.cpp" />
