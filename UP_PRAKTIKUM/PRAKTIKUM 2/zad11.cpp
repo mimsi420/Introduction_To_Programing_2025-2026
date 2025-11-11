@@ -6,7 +6,7 @@ using namespace std;
 
 int main() 
 {
-	int num1, num2, num3, maxNum;
+	int num1, num2, num3;
 
 	cout << "Enter three digits: \n";
 	cin >> num1 >> num2 >> num3;
@@ -18,9 +18,18 @@ int main()
 		num312 = (num3 * 100) + (num1 * 10) + num2,
 		num321 = (num3 * 100) + (num2 * 10) + num1;
 
-	if ((num1 <= 9 && num1 >= 0) && (num2 <= 9 && num2 >= 0) && (num3 <= 9 && num3 >= 9))
+	if ((num1 <= 9 && num1 >= 0) && (num2 <= 9 && num2 >= 0) && (num3 <= 9 && num3 >= 0))
 	{
-		num123 >= num132 ? maxNum = num123 : maxNum = num132;
-		num213 >= num231 ? maxNum = num213 : maxNum = num231;
+		int maxNum = num123;
+		if (num132 > maxNum) maxNum = num132;
+		if (num213 > maxNum) maxNum = num213;
+		if (num231 > maxNum) maxNum = num231;
+		if (num312 > maxNum) maxNum = num312;
+		if (num321 > maxNum) maxNum = num321;
+		
+		cout << "The largest number is: " << maxNum;
+	}
+	else {
+		cout << "Invalid input! Please enter digits between 0 and 9.";
 	}
 }
