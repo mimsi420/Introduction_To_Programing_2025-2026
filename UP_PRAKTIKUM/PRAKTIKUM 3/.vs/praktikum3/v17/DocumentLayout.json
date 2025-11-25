@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85AFD7C7-FAA3-3F10-39E8-192A4481AE3B}|praktikum3.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85AFD7C7-FAA3-3F10-39E8-192A4481AE3B}|praktikum3.vcxproj|solutionrelative:zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{85AFD7C7-FAA3-3F10-39E8-192A4481AE3B}|praktikum3.vcxproj|D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85AFD7C7-FAA3-3F10-39E8-192A4481AE3B}|praktikum3.vcxproj|solutionrelative:zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "zad7.cpp",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\zad7.cpp",
-              "RelativeDocumentMoniker": "zad7.cpp",
-              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\zad7.cpp",
-              "RelativeToolTip": "zad7.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Title": "zad8.cpp",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\zad8.cpp",
+              "RelativeDocumentMoniker": "zad8.cpp",
+              "ToolTip": "D:\\Documents\\GitHub\\Introduction_To_Programing_2025-2026\\UP_PRAKTIKUM\\PRAKTIKUM 3\\zad8.cpp",
+              "RelativeToolTip": "zad8.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-25T09:53:11.421Z",
+              "WhenOpened": "2025-11-25T10:16:03.692Z",
               "EditorCaption": ""
             }
           ]
